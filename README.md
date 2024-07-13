@@ -5,3 +5,7 @@ For this script specifically, I have chosen to targeting the Piano Tiles game av
 The script automates gameplay by detecting and clicking on specific black tiles based on their RGB color value (0, 0, 0) at predefined screen coordinates. This approach optimizes gameplay efficiency by focusing solely on tiles marked with an R index of 0, ensuring accurate performance.
 
 One note is that the script is tailored for tiles that maintain a solid black colouration. Future iterations aim to accommodate game variations featuring tiles of differing opacities, expanding its utility across various versions of the Piano Tiles game.
+
+Watch the final result here -> (https://tinyurl.com/wtmx-pianokeys-demo)
+
+Special thanks to Kian Brose for the tutorial and inspiration! (https://www.youtube.com/@KianBrose)
